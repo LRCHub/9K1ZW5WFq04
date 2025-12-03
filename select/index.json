@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Gum",
+  "base_artist": "んoon",
+  "createdAt": "2025-12-03T23:28:46.644274Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chewing Gum",
+      "artist": "Annie",
+      "has_synced": true,
+      "path": "select/01_Chewing_Gum_Annie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chewing Gum Weekend",
+      "artist": "The Charlatans",
+      "has_synced": true,
+      "path": "select/02_Chewing_Gum_Weekend_The_Charlatans.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chewing Gum Weekend",
+      "artist": "The Charlatans UK",
+      "has_synced": true,
+      "path": "select/03_Chewing_Gum_Weekend_The_Charlatans_UK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Japanese Gum",
+      "artist": "Her Space Holiday",
+      "has_synced": true,
+      "path": "select/04_Japanese_Gum_Her_Space_Holiday.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gum Sum Kyu Hai Sanam",
+      "artist": "Asha Bhosle",
+      "has_synced": true,
+      "path": "select/05_Gum_Sum_Kyu_Hai_Sanam_Asha_Bhosle.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "BUBBLE GUM",
+      "artist": "Quavo",
+      "has_synced": true,
+      "path": "select/06_BUBBLE_GUM_Quavo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bubble Gum",
+      "artist": "Brigitte Bardot",
+      "has_synced": false,
+      "path": "select/07_Bubble_Gum_Brigitte_Bardot.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bubble Gum",
+      "artist": "Brigitte Bardot",
+      "has_synced": true,
+      "path": "select/08_Bubble_Gum_Brigitte_Bardot.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bubble Gum",
+      "artist": "Sonic Youth",
+      "has_synced": true,
+      "path": "select/09_Bubble_Gum_Sonic_Youth.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jelly Roll Gum Drop",
+      "artist": "Frank Zappa",
+      "has_synced": false,
+      "path": "select/10_Jelly_Roll_Gum_Drop_Frank_Zappa.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gum",
+      "artist": "100 gecs",
+      "has_synced": true,
+      "path": "select/11_Gum_100_gecs.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Chewing Gum",
+      "artist": "Blood Orange feat. A$AP Rocky & Project Pat",
+      "has_synced": true,
+      "path": "select/12_Chewing_Gum_Blood_Orange_feat._A$AP_Rocky_&_Project_Pat.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chewing Gum (feat A$AP Rocky & Project Pat)",
+      "artist": "Blood Orange",
+      "has_synced": true,
+      "path": "select/13_Chewing_Gum_(feat_A$AP_Rocky_&_Project_Pat)_Blood_Orange.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "GUM",
+      "artist": "Kaho Nakamura",
+      "has_synced": true,
+      "path": "select/14_GUM_Kaho_Nakamura.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gum",
+      "artist": "んoon",
+      "has_synced": false,
+      "path": "select/pl_01_Gum_んoon.txt"
+    }
+  ]
+}
